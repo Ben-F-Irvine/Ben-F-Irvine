@@ -1,5 +1,5 @@
 ```java
-public class SoftwareEngineeringStudent{
+public class SoftwareEngineer{
 
   public static void main(String[] args){
     name = "Ben Irvine";
