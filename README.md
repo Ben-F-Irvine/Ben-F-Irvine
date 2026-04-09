@@ -5,8 +5,7 @@ public class SoftwareEngineeringStudent{
     name = "Ben Irvine";
     pronouns = "He/Him";
     languagesSpoken[] = ["English", "French"];
-    interests[] = ["Game Development", "Cyber Security"];
-    studying = "Design Patterns";
+    interests[] = ["Data Modeling", "Application Development", "Cyber Security", "Game Development"];
     
     System.out.println("Hello, thanks for dropping by, I hope you find some of my work interesting!");
   }
